@@ -1,3 +1,5 @@
+#his is the basic code to find out the named entities in your string
+
 import spacy
 nlp = spacy.load('en_core_web_sm')
 
